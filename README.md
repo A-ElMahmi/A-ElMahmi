@@ -28,3 +28,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
 </p>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-ElMahmi&layout=donut-vertical)
